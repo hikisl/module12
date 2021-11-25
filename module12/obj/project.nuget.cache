@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "dFf0t3HZKNzhYwXETKY7UEzcDwFIPZFUs0gnm2qDM3B+jsM8Q+8vucgz8+QRWz4DKkRuzz4dOX9sheGObkrCQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oldboyee\\Source\\Repos\\hikisl\\module12\\module12\\module12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oldboyee\\.nuget\\packages\\stylecop\\6.0.0\\stylecop.6.0.0.nupkg.sha512",
+    "C:\\Users\\oldboyee\\.nuget\\packages\\stylecop.msbuild\\6.2.0\\stylecop.msbuild.6.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"StyleCop 6.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "StyleCop",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
